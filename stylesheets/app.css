@@ -9,7 +9,7 @@ body {
 .main-container {
     position: relative;
     background-color: #a1cca5;
-    /* background: url("../resources/bg-painting.jfif"); */
+    margin-top: 30px;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,6 @@ body {
 .main-container-welcome {
     position: relative;
     background-color: white;
-    /* background: url("../resources/bg-painting.jfif"); */
     width: 100%;
     display: flex;
     flex-direction: column;
