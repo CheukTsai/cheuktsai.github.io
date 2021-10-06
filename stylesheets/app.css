@@ -228,7 +228,7 @@ body {
 }
 
 .nav-item:hover {
-    color:navy;
+    color:whitesmoke;
     text-decoration: underline;
     transition: 1s;
 }
