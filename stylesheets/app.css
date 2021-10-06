@@ -215,7 +215,7 @@ body {
 }
 
 .nav-item {
-    font-family: fantasy;
+    font-family: 'Bebas Neue', cursive;
     font-size: 30px;
     color: darkslategray;
     margin-top: 20px;
@@ -224,7 +224,7 @@ body {
 }
 
 #nav-title {
-    font-family: fantasy;
+    font-family: 'Bebas Neue', cursive;
     color: darkslategray;
 }
 
@@ -263,6 +263,10 @@ body {
 
 .intro .title {
     font-family: 'Abril Fatface', cursive;
+}
+
+#nav-word {
+    font-family: 'Bebas Neue', cursive;
 }
 
 .intro p{
@@ -455,7 +459,7 @@ a {
 }
 
 #copyright {
-    font-family: fantasy;
+    font-family: 'Bebas Neue', cursive;
     text-align: center;
 }
 
