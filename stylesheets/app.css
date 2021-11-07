@@ -339,6 +339,10 @@ body {
     gap: 20px;
 }
 
+.project-title{
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
 
 .projects-parent{
     margin-top: 30px;
@@ -381,6 +385,7 @@ body {
 }
 
 .carousel-caption .project-intro {
+    font-size: 1.2rem;
     align-self: center;
     justify-self: center;
     width: 40%;
